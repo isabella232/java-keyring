@@ -30,6 +30,7 @@
         <parameter.license.regex></parameter.license.regex>
         <parameter.organization.email>rex@e-hoffman.org</parameter.organization.email>
         <parameter.organization.name>Java Keyring</parameter.organization.name>
+        <version.deployer.maven.plugin>2.8.2</version.deployer.maven.plugin>
     </properties>
     <dependencyManagement>
         <dependencies>
