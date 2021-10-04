@@ -42,6 +42,7 @@
     <properties>
         <hubspot.nexus.serverId>hubspot-development</hubspot.nexus.serverId>
         <hubspot.nexus.hostname>http://maven.hubteam.com</hubspot.nexus.hostname>
+        <parameter.distribution.skipstaging>true</parameter.distribution.skipstaging>
 
         <github.domain>github.com</github.domain>
         <github.owner>javakeyring</github.owner>
