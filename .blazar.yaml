@@ -1,4 +1,4 @@
 enabled: true
 
 env:
-  MAVEN_ARGS: -Dlicense.skip=true -DskipTests
+  MAVEN_ARGS: -DskipTests -Dlicense.skip=true

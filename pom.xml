@@ -27,7 +27,6 @@
         <!-- set the below parameter to false once you've cut your first release and you want semantic verion checking -->
         <parameter.disable.semantic.versioning>true</parameter.disable.semantic.versioning>
         <parameter.license>BSD-3</parameter.license>
-        <parameter.license.regex></parameter.license.regex>
         <parameter.organization.email>rex@e-hoffman.org</parameter.organization.email>
         <parameter.organization.name>Java Keyring</parameter.organization.name>
         <version.deployer.maven.plugin>2.8.2</version.deployer.maven.plugin>
