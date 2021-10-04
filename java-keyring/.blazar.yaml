@@ -1,4 +1,4 @@
 enabled: true
 
 env:
-  MAVEN_ARGS: -DskipTests -Dlicense.skip=true
+  MAVEN_ARGS: -DskipTests -Dlicense.skip=true -DskipNexusStagingDeployMojo=true 
