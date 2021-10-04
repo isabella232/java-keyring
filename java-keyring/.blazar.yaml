@@ -1,0 +1,4 @@
+enabled: true
+
+env:
+  MAVEN_ARGS: -DskipTests -Dlicense.skip=true
