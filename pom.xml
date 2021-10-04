@@ -14,6 +14,15 @@
     <packaging>pom</packaging>
     <name>java-keyring-parent</name>
     <description>A Java library to store password securely</description>
+    <repositories>
+      <repository>
+        <snapshots>
+          <updatePolicy>always</updatePolicy>
+        </snapshots>
+        <id>${hubspot.nexus.serverId}</id>
+        <url>${hubspot.nexus.hostname}/nexus/content/repositories/development</url>
+      </repository>
+    </repositories>
 
     <modules>
         <module>java-keyring</module>
