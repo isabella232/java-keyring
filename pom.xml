@@ -40,6 +40,9 @@
     </modules>
 
     <properties>
+        <hubspot.nexus.serverId>hubspot-development</hubspot.nexus.serverId>
+        <hubspot.nexus.hostname>http://maven.hubteam.com</hubspot.nexus.hostname>
+
         <github.domain>github.com</github.domain>
         <github.owner>javakeyring</github.owner>
         <github.project>java-keyring</github.project>
